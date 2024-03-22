@@ -1,5 +1,6 @@
 #components-form-demo-normal-login .login-form {
-    max-width: 300px;
+    width: 100%;
+    max-height: 300px;
 }
 #components-form-demo-normal-login .login-form-forgot {
     float: right;
@@ -9,4 +10,8 @@
 }
 #components-form-demo-normal-login .login-form-button {
     width: 100%;
+}
+
+#components-form-demo-normal-login a {
+    color: #1677ff;
 }
