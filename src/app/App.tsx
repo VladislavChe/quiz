@@ -1,9 +1,13 @@
+import AuthPage from "../pages/AuthPage/AuthPage";
+import './index.css';
 
 function App() {
 
   return (
     <>
-      <h1>Vite + React</h1>
+        <div className="container">
+            <AuthPage />
+        </div>
     </>
   )
 }

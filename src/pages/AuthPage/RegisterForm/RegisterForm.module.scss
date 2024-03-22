@@ -1,0 +1,13 @@
+.registerForm {
+  width: 100%;
+  max-height: 400px;
+
+  .ant-form-item-label {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .login-form-button {
+    width: 100%;
+  }
+}
